@@ -1,7 +1,7 @@
 import { createBrowserRouter } from 'react-router-dom';
 import Layout from '../components/common/Layout';
 import Home from '../views/Home';
-import Login from '../views/login';
+import Login from '../views/Login';
 import Purchases from '../views/Purchases';
 import ProductsDetail from '../views/ProductsDetail';
 import NotFound from '../views/NotFound';
